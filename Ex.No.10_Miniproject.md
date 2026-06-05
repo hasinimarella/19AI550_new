@@ -1,6 +1,6 @@
-Ex.No: 10 Implementation of 2D Game – Catch Ball in Bowl
-DATE:MARELLA HASINI
-REGISTER NUMBER:212223240083
+## Ex.No: 10 Implementation of 2D Game – Catch Ball in Bowl
+## DATE:05-05-2026
+## REGISTER NUMBER:212223240083
 ## AIM:
 
 To develop a simple 2D Catch Ball game in Unity where the player controls a bowl to catch falling balls and earn score points.
